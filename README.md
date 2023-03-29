@@ -1,0 +1,1 @@
+# controle_deslizante_de_intervalo_personalizado
